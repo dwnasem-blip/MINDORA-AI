@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "MINDORA AI",
+    "slug": "mindora-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "ios": { "supportsTablet": false, "bundleIdentifier": "com.mindoraai.app" },
+    "android": { "package": "com.mindoraai.app" }
+  }
+}
